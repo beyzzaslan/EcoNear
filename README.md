@@ -337,7 +337,7 @@ flutter run
             https://github.com/burakbaslik <br>
         </td>
         <td width="150" align="center">
-           https://github.com/1beyzaslan <br>
+           https://github.com/beyzzaslan <br>
         </td>
         <td width="150" align="center">
          https://github.com/serhatbsts <br>
